@@ -1,7 +1,17 @@
+import { SiBurgerking} from "react-icons";
+
 const Header = () => {
 	return (
 		<header>
-			<div>header</div>
+			<div>
+				<SiBurgerking />
+			</div>
+			<nav>
+				<a>Home</a>
+				<a>About</a>
+				<a>Comment</a>
+				<a>Burgers</a>
+			</nav>
 		</header>
 	);
 };
