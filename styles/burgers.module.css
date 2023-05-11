@@ -20,6 +20,11 @@
     margin-top: 0;
 }
 
+.burgerCard img{
+    width: 100%;
+    height: 100%;
+}
+
 .singleBurger{
     max-width:600px
 }
